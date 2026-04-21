@@ -1,0 +1,1 @@
+compress_image_dwt('123.jpg');
