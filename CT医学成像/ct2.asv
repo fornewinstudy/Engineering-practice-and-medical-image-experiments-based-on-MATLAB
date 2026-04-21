@@ -1,0 +1,5 @@
+% ContrastWidening(ImPath,fa,fb,ga,gb);
+
+ ContrastWidening('CT.png',20,100,60,0);
+ 
+ 
